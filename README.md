@@ -14,7 +14,7 @@ in my pinned repos are some of my favorite projects, but here are some other's i
 * GitHub - @geg-tech
 * Email - gegofcats@gmail.com
 
-> *i was featured in Hack Club's Highway Magazine Volume 1! wow!*
+> *i was featured in Hack Club's Highway Magazine Volume 1! wow!* <br/>
 > <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/0ec8c4f1-d648-4889-b37c-0d29bef71a8d" /> <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/43481da0-df99-4e06-89b0-c9b6137e5bf6" />
 
 <!--

@@ -1,4 +1,4 @@
-# ay wasup hello
+# ay wasup hello 🗣️🗣️
 
 i'm alex tran! a teenager, Hack Clubber, and aspiring mechanical engineer located florida! <br/>
 i make deranged hardware/electronics projects, mainly for fun <br/>

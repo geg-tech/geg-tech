@@ -1,9 +1,9 @@
 # ay wasup hello 🗣️🗣️
 
 i'm alex tran! a teenager, Hack Clubber, and aspiring mechanical engineer located florida! <br/>
-i make deranged hardware/electronics projects, mainly for fun <br/>
+i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>
 
-*in my pinned repos are some of my favorite projects, but here are some others i really like*
+*in my pinned repos are some of my favorite projects, but here are some others i really like!*
 * [a biblically accurate keyboard!](https://github.com/geg-tech/biblicallyaccuratekeyboard)
 * [a recreation of the Engineer's Construction PDA from TF2, as a macropad!](https://github.com/geg-tech/engipad)
 * [a NFC-powered PCB card with heavy cyberpunk/poker vibes!](https://github.com/geg-tech/cheapsuit)

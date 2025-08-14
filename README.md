@@ -2,6 +2,7 @@
 
 i'm alex tran! a teenager, Hack Clubber, and aspiring mechanical engineer located florida! <br/>
 i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>
+> pfp made by @acon!!!!!!!!!!!!
 
 *in my pinned repos are some of my favorite projects, but here are some others i really like!*
 * [a biblically accurate keyboard!](https://github.com/geg-tech/biblicallyaccuratekeyboard)

@@ -12,7 +12,7 @@ i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>
 ### extras n' stuff
 * certfied in Fusion 360 (Certified Autodesk User: Fusion®)
 * i use Figma, Photoshop, KiCad, Fusion 360, VSCode, and Blender for all of my projects
-* student in VEX Robotics (team 550F)
+* student in VEX Robotics (team 550F footlong 🗣️🗣️)
 
 ### contacts 
 * Slack - @egg_splats

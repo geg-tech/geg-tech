@@ -21,6 +21,8 @@ i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>
 * Email - gegofcats@gmail.com
 * Discord - @geg_ofcats
 
+<img width="1859" height="1440" alt="gegtech" src="https://github.com/user-attachments/assets/0bb7ca4d-92af-425f-bd1b-99fa354bbd7c" />
+
 > *i was featured in Hack Club's Highway Magazine Volume 1! wow!* <br/>
 > <img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/0ec8c4f1-d648-4889-b37c-0d29bef71a8d" /> <img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/43481da0-df99-4e06-89b0-c9b6137e5bf6" />
 

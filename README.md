@@ -1,5 +1,5 @@
 # ay wasup hello 🗣️🗣️
-<img width="465" height="360" alt="gegtech" src="https://github.com/user-attachments/assets/0bb7ca4d-92af-425f-bd1b-99fa354bbd7c" /> <br/>
+<img align="right" width="465" height="360" alt="gegtech" src="https://github.com/user-attachments/assets/0bb7ca4d-92af-425f-bd1b-99fa354bbd7c" /> <br/>
 
 i'm alex tran! a teenager, Hack Clubber, and aspiring mechanical engineer located florida! <br/>
 i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>

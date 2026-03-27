@@ -13,7 +13,7 @@ i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>
 ### extras n' stuff
 * certfied in Fusion 360 (Certified Autodesk User: Fusion®)
 * i use Figma, Photoshop, KiCad, Fusion 360, VSCode, and Blender for all of my projects
-* student in VEX Robotics (team 550F footlong 🗣️🗣️)
+* student in VEX Robotics (team 550F flavortown tuffest apk team in history 🗣️🗣️)
 
 ### contacts 
 * Slack - @egg_splats
@@ -24,5 +24,5 @@ i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>
 
 > *i was featured in the hack club 2025 magazine! wow!* <br/>
 > *also kevin from the backyard scientist liked by project a lot:DD* <br/>
-> <img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/0ec8c4f1-d648-4889-b37c-0d29bef71a8d" /> <img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/43481da0-df99-4e06-89b0-c9b6137e5bf6" />
+> <img width="300" height="225" alt="image" src="https://github.com/geg-tech/geg-tech/blob/f2a43d055e3a4afa05f29fbd7894fc1ff2e785a4/images!/image%20(2).png" /> <img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/43481da0-df99-4e06-89b0-c9b6137e5bf6" />
 

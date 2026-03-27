@@ -11,9 +11,9 @@ i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>
 * [a NFC-powered PCB card with heavy cyberpunk/poker vibes!](https://github.com/geg-tech/cheapsuit)
 
 ### extras n' stuff
-* certfied in Fusion 360 (Certified Autodesk User: Fusion®)
-* i use Figma, Photoshop, KiCad, Fusion 360, VSCode, and Blender for all of my projects
-* student in VEX Robotics (team 550F flavortown tuffest apk team in history 🗣️🗣️)
+* certfied in Autodesk Fusion 360 and Inventor (Certified Autodesk User: Fusion®/Inventor®)
+* i use Figma, Photoshop, KiCad, Fusion 360, VSCode, and Blender for all of my projects!
+* student in VEX Robotics (team 550F flavortown tuffest ahs team in history 🗣️🗣️)
 
 ### contacts 
 * Slack - @egg_splats
@@ -23,7 +23,7 @@ i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>
 * Discord - @geg_ofcats
 
 > *i was featured in the hack club 2025 magazine! wow!* <br/>
-> *also kevin from the backyard scientist liked by project a lot:DD* <br/>
+> *also kevin from the backyard scientist liked by project a lot :DD* <br/>
 > <img width="300" alt="the chipper fella" src="https://github.com/geg-tech/geg-tech/blob/f2a43d055e3a4afa05f29fbd7894fc1ff2e785a4/images!/image%20(2).png" /> <img width="300" alt="magazine front cover w/ my project!" src="https://github.com/geg-tech/geg-tech/blob/dfb9f1876c895d68340b72bc2b6bee46b63a456c/images!/PXL_20260221_000821740.jpg" />
 
 

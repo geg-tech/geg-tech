@@ -24,7 +24,7 @@ i make deranged (and cool) hardware/electronics projects, mainly for fun <br/>
 
 > *i was featured in the hack club 2025 magazine! wow!* <br/>
 > *also kevin from the backyard scientist liked by project a lot:DD* <br/>
-> <img width="300" alt="image" src="https://github.com/geg-tech/geg-tech/blob/f2a43d055e3a4afa05f29fbd7894fc1ff2e785a4/images!/image%20(2).png" /> <img width="300" alt="https://github.com/geg-tech/geg-tech/blob/dfb9f1876c895d68340b72bc2b6bee46b63a456c/images!/PXL_20260221_000821740.jpg)" />
+> <img width="300" alt="image" src="https://github.com/geg-tech/geg-tech/blob/f2a43d055e3a4afa05f29fbd7894fc1ff2e785a4/images!/image%20(2).png" /> <img width="300" alt="https://github.com/geg-tech/geg-tech/blob/dfb9f1876c895d68340b72bc2b6bee46b63a456c/images!/PXL_20260221_000821740.jpg" />
 
 
 
